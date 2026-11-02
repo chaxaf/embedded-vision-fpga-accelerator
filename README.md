@@ -121,7 +121,3 @@ This project demonstrates:
 - Project presentation: `docs/presentation.pptx`
 
 ---
-
-## Author
-
-- Charlotte Heibig
